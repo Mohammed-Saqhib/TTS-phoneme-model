@@ -1,0 +1,1 @@
+phoneme1 phoneme2 phoneme3 phoneme4 phoneme5
